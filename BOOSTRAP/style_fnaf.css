@@ -1,0 +1,37 @@
+@charset "utf-8";
+.animated__animated {
+}
+.animate__animate {
+}
+.animate__backInDown {
+}
+.bungee-spice-regular, p {
+  font-family: "Bungee Spice", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.bebas-neue-regular, h5 {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.cabin, p{
+  font-family: "Cabin", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.bebas-neue-regular,h6{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.signika, h2{
+  font-family: "Signika", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" 0;
+}
